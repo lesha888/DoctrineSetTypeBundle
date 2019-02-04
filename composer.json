@@ -1,5 +1,5 @@
 {
-    "name": "okapon/doctrine-set-type-bundle",
+    "name": "lesha888/doctrine-set-type-bundle",
     "type": "symfony-bundle",
     "description": "Provides support of MySQL SET type for Doctrine2 in Symfony2 applications.",
     "keywords": ["bundle", "symfony", "doctrine", "MySQL", "SET", "type", "DBAL"],
